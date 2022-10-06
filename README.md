@@ -4,7 +4,7 @@
 I'm a self-taught full-stack developer and an engineer by discipline. I started developing and build beautiful websites since 2018. I am still continuing on developing my skills and assets to engage further in an advancing technology nowadays. 
 
 
-## 🛠 Skills
+## 🛠 Tech Stack
 <div style="display: inline_block">
   <img align="center" alt="Javascript Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Node JS Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
