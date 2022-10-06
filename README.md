@@ -1,16 +1,13 @@
-### Hi there 👋
+### A blessed day
+## I am LENMUEL DEL ROSARIO 👋 
 
-<!--
-**lvdlrs/lvdlrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Brief but lots of information about me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a self-taught full-stack developer and an engineer by discipline. I started developing and build beautiful websites since 2018. I am still continuing on developing my skills and assets to engage further in an advancing technology nowadays. 
+
+
+## 🛠 Skills
+
+
