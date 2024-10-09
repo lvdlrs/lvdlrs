@@ -1,7 +1,7 @@
 ### A blessed day
 ## I am LENMUEL DEL ROSARIO 👋 
 
-I'm a self-taught full-stack developer and an engineer by discipline. I started developing and build beautiful websites since 2018. I am still continuing on developing my skills and assets to engage further in an advancing technology nowadays. 
+I'm a self-taught full-stack developer and an engineer by discipline, with more than 5 years of experience in crafting and polishing websites in different platform such as Wordpress, Shopify, Squarespace, and Webflow. Still on pursuit on learning new things as technology progresses by.
 
 
 ## 🛠 Tech Stack
