@@ -1,19 +1,21 @@
 ### A blessed day
 ## I am LENMUEL DEL ROSARIO 👋 
 
-I'm a self-taught full-stack developer and an engineer by discipline, with more than 5 years of experience in crafting and polishing websites in different platform such as Wordpress, Shopify, Squarespace, and Webflow. Still on pursuit on learning new things as technology progresses by.
+I'm a self-taught full-stack developer and an engineer by discipline, with more than 5 years of experience in crafting and polishing websites in different platform such as Wordpress, Shopify, Squarespace, Webflow, customizing content using Sanity and NextJs. Still on pursuit on learning new things as technology progresses by.
 
 
 ## 🛠 Tech Stack
 <div style="display: inline_block">
   <img align="center" alt="Javascript Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="NextJs Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Node JS Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img align="center" alt="HTML Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bash Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Shopify Logo" height="30" width="80" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Shopify_logo_2018.svg">
+  <img align="center" alt="Sanity Logo" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sanity/sanity-original.svg">
 </div>
 
 ##
