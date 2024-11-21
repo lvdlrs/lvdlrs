@@ -15,7 +15,7 @@ I'm a self-taught full-stack developer and an engineer by discipline, with more 
   <img align="center" alt="Bash Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Shopify Logo" height="30" width="80" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Shopify_logo_2018.svg">
-  <img align="center" alt="Sanity Logo" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sanity/sanity-original.svg">
+  <img align="center" alt="Sanity Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sanity/sanity-original.svg">
 </div>
 
 ##
